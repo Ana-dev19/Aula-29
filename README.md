@@ -54,5 +54,3 @@ O exercício envolve a criação de uma interface `Tributavel` e classes que a i
 ## Contribuição
 
 Se você deseja contribuir para este projeto, fique à vontade para enviar um pull request com suas melhorias.
-
-## Licença
